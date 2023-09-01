@@ -18,7 +18,7 @@
 # Other screen sizes and ratios will require more trial-and-error.
 %define pixel_ratio 1.75
 
-Obsoletes: pulseaudio-modules-droid-glue
+#Obsoletes: pulseaudio-modules-droid-glue
 
 %include droid-configs-device/droid-configs.inc
 %include patterns/patterns-sailfish-device-adaptation-ginkgo.inc
