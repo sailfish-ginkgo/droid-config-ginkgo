@@ -24,6 +24,8 @@
 %include patterns/patterns-sailfish-device-adaptation-ginkgo.inc
 %include patterns/patterns-sailfish-device-configuration-ginkgo.inc
 
+%define android_version_major 11
+
 # IMPORTANT if you want to comment out any macros in your .spec, delete the %
 # sign, otherwise they will remain defined! E.g.:
 #define some_macro "I'll not be defined because I don't have % in front"
