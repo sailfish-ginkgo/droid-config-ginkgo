@@ -92,7 +92,10 @@ Requires: libgbinder-tools
 
 # For debug sound cards
 Requires: alsa-utils
-
+# For Fingerprint
+Requires: sailfish-fpd-community
+Requires: droid-biometry-fp
+Requires: droid-fake-crypt
 # NFC support
 # 1. binder plugin requires Android 8 or a newer base
 # 2. pn54x plugin talks directly to pn54x driver
