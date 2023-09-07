@@ -92,8 +92,8 @@ Requires: sailfish-connman-plugin-suspend
 Requires: ohm-plugin-accessories >= 1.7.0
 Requires: libgbinder-tools
 
-Provides: ofono-configs
-Obsoletes: ofono-configs-mer
+#Provides: ofono-configs
+#Obsoletes: ofono-configs-mer
 
 # For debug sound cards
 Requires: alsa-utils
