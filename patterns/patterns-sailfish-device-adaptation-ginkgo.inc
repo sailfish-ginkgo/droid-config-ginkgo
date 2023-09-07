@@ -13,7 +13,6 @@ Requires: droid-config-ginkgo-preinit-plugin
 Requires: droid-config-ginkgo-flashing
 Requires: droid-config-ginkgo-bluez5
 Requires: droid-hal-ginkgo-kernel-dtbo
-Requires: droid-config-ginkgo-pulseaudio-settings
 Requires: droid-hal-ginkgo-tools
 Requires: droid-hal-version-ginkgo
 
